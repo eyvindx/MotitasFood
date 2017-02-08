@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MotitasFood</string>
+    <string name="company">MOTITAS FOOD</string>
+    <string name="menu1">Ménu</string>
+    <string name="menu2">Servicios</string>
+    <string name="menu3">Banquetes</string>
+</resources>
